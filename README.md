@@ -30,8 +30,8 @@ This project is a Node.js-based API that scrapes job vacancies from different pl
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/macdufff/VacanciesBackEnd.git
+   cd VacanciesBackEnd
    ```
 
 2. **Install Dependencies**:
